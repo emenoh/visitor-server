@@ -1,8 +1,8 @@
 Package.describe({
-	name: 'useful:visitor-server',
+	name: 'emenoh:visitor-server',
 	version: '0.0.2',
 	summary: 'Server-side infrastructure for tracking visitors to your site.',
-	git: 'https://github.com/usefulio/visitor-server',
+	git: 'https://github.com/emenoh/visitor-server/',
 	documentation: 'README.md'
 });
 
